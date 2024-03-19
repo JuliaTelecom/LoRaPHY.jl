@@ -1,6 +1,6 @@
 # LoRaPHY.jl: Physical Layer Package for Long Range Communication in Julia
 
-This Julia package provides a comprehensive implementation of a LoRA (Long Range) Physical Layer (PHY) with Hamming encoding, interleaving, CSSS modulation, and associated decoding algorithms. LoRA technology is known for its efficient long-range communication capabilities, making it ideal for IoT (Internet of Things) and other low-power, wide-area network applications.
+This Julia package provides a comprehensive implementation of a LoRA (Long Range) Physical Layer (PHY) with Hamming encoding, interleaving, CSS modulation, and associated decoding algorithms. LoRA technology is known for its efficient long-range communication capabilities, making it ideal for IoT (Internet of Things) and other low-power, wide-area network applications.
 
 ## Installation
 
