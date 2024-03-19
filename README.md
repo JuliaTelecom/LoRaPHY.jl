@@ -20,7 +20,7 @@ julia> using Pkg; Pkg.add("LoRaPHY")
 
 A minimal transmitter-receiver can be found in `example/tx_rx.jl`
 
-```
+```julia
 # Number of LoRa symbols to transmit 
 N = 128 
 # Spreading factor used in LoRa 
@@ -51,7 +51,7 @@ The important LoRa parameters are as follows:
 
 If you already have a binary sequence `bitSeq` (an array of 0 and 1) and you want to modulate this binary sequence, you can do the following:
 
-```
+```julia
 # Spreading factor used in LoRa 
 SF = 7 
 # Number of LoRa symbols to transmit 
@@ -76,7 +76,7 @@ The output parameters are:
 
 To decode a received signal, follow these steps:
 
-```
+```julia
 # Number of LoRa symbols to transmit 
 # Spreading factor used in LoRa 
 SF = 7 
@@ -112,7 +112,7 @@ Simulated performance matches theory as demonstrated by the following performanc
 
 If you want to transmit a LoRa signal with a Software Defined Radio, you can use `AbstractSDRs.jl` with a compatible device 
 
-```
+```julia
 # --- Dependencies
 using LoRaPHY 
 using AbstractSDRs
