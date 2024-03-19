@@ -157,3 +157,11 @@ end
 close(sdr)
 @info "Transmit $(nbB) LoRa bursts"
 ```
+
+
+## Contributors 
+
+Many thanks to all the contributors of this package 
+- Robin Gerzaguet (Univ Rennes, IRISA)
+- Jules Courjault (Univ Rennes, IRISA)
+- Thomas Pluta (ENSSAT)
