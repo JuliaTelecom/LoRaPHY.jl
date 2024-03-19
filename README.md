@@ -99,7 +99,7 @@ Performance matches the theory (theoretical Symbol Error Rate (SER) formula is g
 
 Simulated performance matches theory as demonstrated by the following performance 
 
-![](./examples/Lora_BER_SF.pdf)
+![](./examples/Lora_BER_SF.png)
 
 
 [1] J. Courjault, B. Vrigneau, O. Berder and M. R. Bhatnagar, "A Computable Form for LoRa Performance Estimation: Application to Ricean and Nakagami Fading," in IEEE Access, vol. 9, pp. 81601-81611, 2021, doi: 10.1109/ACCESS.2021.3074704.  
