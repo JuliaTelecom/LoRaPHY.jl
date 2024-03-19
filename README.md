@@ -102,7 +102,7 @@ Simulated performance matches theory as demonstrated by the following performanc
 ![](./examples/Lora_BER_SF.pdf)
 
 
-[1] J. Courjault, B. Vrigneau, O. Berder and M. R. Bhatnagar, "A Computable Form for LoRa Performance Estimation: Application to Ricean and Nakagami Fading," in IEEE Access, vol. 9, pp. 81601-81611, 2021, doi: 10.1109/ACCESS.2021.3074704.
+[1] J. Courjault, B. Vrigneau, O. Berder and M. R. Bhatnagar, "A Computable Form for LoRa Performance Estimation: Application to Ricean and Nakagami Fading," in IEEE Access, vol. 9, pp. 81601-81611, 2021, doi: 10.1109/ACCESS.2021.3074704.  
 [2] J. Courjault, B. Vrigneau, M. Gautier and O. Berder, "Accurate LoRa Performance Evaluation Using Marcum Function," 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 2019, pp. 1-5, doi: 10.1109/GLOBECOM38437.2019.9014148.
 
 
